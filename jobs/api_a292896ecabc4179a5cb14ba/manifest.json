@@ -1,0 +1,47 @@
+{
+  "job_id": "api_a292896ecabc4179a5cb14ba",
+  "mode": "zip_split",
+  "file_url": "https://free-dl9.myalphadl.com/Y5l1QJJRIRUCYHonh8YGcA/FROM.S04E06.1080p.x265.WEBRip.10bit.PSA.AlphaDL.mkv",
+  "suggested_filename": "FROM.S04E06.1080p.x265.WEBRip.10bit.PSA.AlphaDL.mkv",
+  "total_size_bytes": 658635950,
+  "created_at_utc": "2026-05-31T10:20:51.519153+00:00",
+  "zip_folder": "jobs/api_a292896ecabc4179a5cb14ba/zip",
+  "zip_main_file": "FROM.S04E06.1080p.x265.WEBRip.10bit.PSA.AlphaDL_split.zip",
+  "zip_parts": [
+    {
+      "name": "FROM.S04E06.1080p.x265.WEBRip.10bit.PSA.AlphaDL_split.z01",
+      "path": "jobs/api_a292896ecabc4179a5cb14ba/zip/FROM.S04E06.1080p.x265.WEBRip.10bit.PSA.AlphaDL_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "FROM.S04E06.1080p.x265.WEBRip.10bit.PSA.AlphaDL_split.z02",
+      "path": "jobs/api_a292896ecabc4179a5cb14ba/zip/FROM.S04E06.1080p.x265.WEBRip.10bit.PSA.AlphaDL_split.z02",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "FROM.S04E06.1080p.x265.WEBRip.10bit.PSA.AlphaDL_split.z03",
+      "path": "jobs/api_a292896ecabc4179a5cb14ba/zip/FROM.S04E06.1080p.x265.WEBRip.10bit.PSA.AlphaDL_split.z03",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "FROM.S04E06.1080p.x265.WEBRip.10bit.PSA.AlphaDL_split.z04",
+      "path": "jobs/api_a292896ecabc4179a5cb14ba/zip/FROM.S04E06.1080p.x265.WEBRip.10bit.PSA.AlphaDL_split.z04",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "FROM.S04E06.1080p.x265.WEBRip.10bit.PSA.AlphaDL_split.z05",
+      "path": "jobs/api_a292896ecabc4179a5cb14ba/zip/FROM.S04E06.1080p.x265.WEBRip.10bit.PSA.AlphaDL_split.z05",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "FROM.S04E06.1080p.x265.WEBRip.10bit.PSA.AlphaDL_split.z06",
+      "path": "jobs/api_a292896ecabc4179a5cb14ba/zip/FROM.S04E06.1080p.x265.WEBRip.10bit.PSA.AlphaDL_split.z06",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "FROM.S04E06.1080p.x265.WEBRip.10bit.PSA.AlphaDL_split.zip",
+      "path": "jobs/api_a292896ecabc4179a5cb14ba/zip/FROM.S04E06.1080p.x265.WEBRip.10bit.PSA.AlphaDL_split.zip",
+      "size_bytes": 92405166
+    }
+  ]
+}
